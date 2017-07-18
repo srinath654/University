@@ -1,0 +1,25 @@
+#success_message{ display: none;}
+
+body{
+	background-color: rgb(0,150,220);
+}
+
+h1{
+	text-align: center;
+	color: grey;
+}
+
+.login{
+	padding-top: 30px;
+	padding-left: 200px;
+
+}
+
+.container{
+	padding-top: 30px;
+}
+
+legend{
+	text-align: center;
+	color: grey;
+}
